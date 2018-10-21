@@ -18,6 +18,20 @@
     <div class="text-box" contenteditable="true"></div> <!--text box which will contain spoken text -->
       <i class="fa fa-microphone"></i> <!-- microphone icon to be clicked before speaking -->
   </div>
+
+    <p>Play around with app by clicking the icon and trying one of the following phrases:</p>
+
+    <p>What is the time?</p>
+
+    <p>What is today’s date?</p>
+
+    <p>What is the weather in {City Name}?</p>
+
+    <p>Open Facebook.</p>
+
+    <p>Open Twitter.</p>
+
+    <p>We should get a reply from the app.</p>
   <audio class="sound" src="http://soundbible.com/grab.php?id=1598&type=mp3"></audio> <!-- sound to be played when we click icon => http://soundbible.com/1598-Electronic-Chime.html -->
   <script src="js/index.js"></script> <!-- link to index.js script -->
 </body>
