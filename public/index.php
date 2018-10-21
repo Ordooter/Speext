@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
 </head>
 <body>
-    <h3> A Simple Speech To Text Recognition App, Using Laravel Framework and Powered by Javascript</h3>
+    <h3> A Simple Speech Recognition App, Using Laravel Framework and Powered by Javascript</h3>
   <div class="container"> <!--page container -->
     <div class="text-box" contenteditable="true"></div> <!--text box which will contain spoken text -->
       <i class="fa fa-microphone"></i> <!-- microphone icon to be clicked before speaking -->
