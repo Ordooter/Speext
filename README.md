@@ -1,7 +1,7 @@
 # Speext
-##**A Simple Speech Recognition App**
+## **A Simple Speech Recognition App**
 
-###Installation
+### **Installation**
 
 Clone this repo.
 
