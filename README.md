@@ -1,13 +1,21 @@
 # Speext
-A Simple Speech Recognition App
+##**A Simple Speech Recognition App**
 
-Let’s click the icon and try one of the following phrases:
+###Installation
+
+Clone this repo.
+
+Run _**nmp install**_ to install dependencies; use _**sudo**_ if error.
+
+Run _**php artisan serve**_ to run development server at _**http://localhost:8000/**_
+
+Play around with app by clicking the icon and trying one of the following phrases:
 
 What is the time?
 
 What is today’s date?
 
-What is the weather in Lagos?
+What is the weather in {City Name}?
 
 Open Facebook.
 
