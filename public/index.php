@@ -15,7 +15,7 @@
 <body>
   <div class="container"> <!--page container -->
     <div class="text-box" contenteditable="true"></div> <!--text box which will contain spoken text -->
-      <i class="fas fa-microphone"></i> <!-- microphone icon to be clicked before speaking -->
+      <i class="fa fa-microphone"></i> <!-- microphone icon to be clicked before speaking -->
   </div>
   <audio class="sound" src="http://soundbible.com/grab.php?id=1598&type=mp3"></audio> <!-- sound to be played when we click icon => http://soundbible.com/1598-Electronic-Chime.html -->
   <script src="js/index.js"></script> <!-- link to index.js script -->
